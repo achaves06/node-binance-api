@@ -1,11 +1,12 @@
 {
-  "name": "node-binance-api",
+  "name": "node-binanceus-api",
   "version": "0.10.3",
-  "description": "Binance API for node https://github.com/achaves06/node-binance-api",
+  "description": "Binance US API for node",
   "main": "node-binance-api.js",
   "dependencies": {
     "async": "^3.1.0",
     "https-proxy-agent": "^3.0.1",
+    "node-binance-api": "git+https://github.com/achaves06/node-binance-api.git",
     "request": "^2.88.0",
     "socks-proxy-agent": "^4.0.2",
     "string-hash": "^1.1.3",
@@ -31,9 +32,6 @@
   ],
   "author": "Jon Eyrick <social@nextlocal.net> (https://nextlocal.net)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/achaves06/node-binance-api/issues"
-  },
   "homepage": "https://github.com/achaves06/node-binance-api#readme",
   "devDependencies": {
     "chai": "^4.2.0",
