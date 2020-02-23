@@ -1,6 +1,6 @@
 {
   "name": "node-binanceus-api",
-  "version": "0.10.3",
+  "version": "1",
   "description": "Binance US API for node",
   "main": "node-binance-api.js",
   "dependencies": {
