@@ -6,6 +6,7 @@
   "dependencies": {
     "async": "^3.1.0",
     "https-proxy-agent": "^3.0.1",
+    "node-binance-api": "git+https://github.com/achaves06/node-binance-api.git",
     "request": "^2.88.0",
     "socks-proxy-agent": "^4.0.2",
     "string-hash": "^1.1.3",
